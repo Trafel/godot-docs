@@ -108,4 +108,4 @@ Baked light
 Baked light stands for pre-computed ambient light. It can serve multiple
 purposes, such as baking light emissors that are not going to be used in
 real-time, and baking light bounces from real-time lights to add more
-realism to a scene (see Baked Light]] tutorial for more information).
+realism to a scene (see [[Baked Light]] tutorial for more information).
